@@ -1,2 +1,2 @@
-# zabbi_template
-zabbi_template
+# zabbix_template
+zabbix_template
